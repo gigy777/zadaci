@@ -1,2 +1,2 @@
-cd build
+cd src
 node index.js
